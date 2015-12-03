@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExemploWebServiceCalculadora</string>
+    <string name="txt_valor1">Valor 1</string>
+    <string name="txt_valor2">Valor 2</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="txt_resultado">Resultado: 0</string>
+    <string name="txt_resultado_final"></string>
+    <string name="titulo_progressdialog">Exemplo WebService</string>
+    <string name="mensagem_progressdialog">Aguarde Carregando...</string>
+
+
+</resources>
